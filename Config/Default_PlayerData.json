@@ -1,0 +1,11 @@
+{
+    "state":{
+        "Double_Jump_Unlocked":false,
+        "Dash_Unlocked":false
+    },
+    "RespawnPoint":"00000124",
+    "Position":"00000124",
+    "Weapon":"SnowBall_Gun",
+    "Coin":0,
+    "Boss_Approval":0
+}

@@ -1,0 +1,25 @@
+////////////////
+///Particles///
+///////////////
+<!-- Player -->
+Player_Dash         ->  Viktor -> https://v-ktor.itch.io/pixelated-attackhit-animations
+Player_Double_Jump  ->  Viktor -> https://v-ktor.itch.io/pixelated-attackhit-animations
+Player_Land         -> Ansimuz -> https://ansimuz.itch.io/gothicvania-magic-pack-5
+
+Player_Dead         -> XYEzawr -> https://xyezawr.itch.io/gif-free-pixel-effects-pack-5-blood-effects
+
+
+
+/////////////////
+///Backgrounds///
+/////////////////
+08281219 -> Ansimuz -> https://ansimuz.itch.io/space-background?download
+08281335 -> Edermunizz -> https://edermunizz.itch.io/pixel-art-plataformer-painted-style
+
+
+////////////
+///Bosses///
+////////////
+<!-- Angtrisent -->
+Angtrisent -> Ansimuz -> https://ansimuz.itch.io/gothicvania-church-pack
+Thunder_Attack -> Ansimuz -> https://ansimuz.itch.io/gothicvania-magic-pack-n1
